@@ -1,0 +1,8 @@
+*.pyc
+_pycache_
+.idea
+node_modules
+.vscode
+package-lock.json
+.DS_Store
+logs/api/*

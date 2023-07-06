@@ -1,0 +1,10 @@
+#docker-compose.yml (Base)
+version: '3.4'
+services:
+  html:
+    image: ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/html:$IMAGE_TAG
+    logging:
+      driver: local
+    ports:
+      - "8080:8080"
+    restart: always

@@ -1,0 +1,25 @@
+version: 0.2
+env:
+  variables:
+    SSH_PRIVATE_KEY : "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBajI0emQ3d3NVd05EaHcvTU9EWUpuQUpRMTJaVENTK1dKM3NYb1M4TGVlL2srVUwzCk1tdXVGTzhuc2JlYVJTaVRBRVBRTXlpQ01ENmwxM2pJc1VXZ2NSTFZqQ0pob1REYkdVeVVKQmV3T0t2c1lpM1kKNXdJeVFxSzRsTndzak5RR1hScjhNQnZVMEVTV3ZwYmU5ZkxsK29tZUNScWo2N0RQTDFadWI5VnQ3cXZyN0JUcgpiTER4QUlMaXd0SUFLV1RFK2pOK2UxK2tQWDNWN1JyejAyOTJ6cnRITDVwTkNUUzVMcnNjalYxRUYyOGtvUzZWClF3cVVOcGExa1NvdlBQY3FzWFNEMWpCcjVvVEhlaTkxTVRacmdDQkNhSHdwNHpMVVhTWlVZRFBNTGhEZnBEVFAKYml4bzE1emNUeE9iRDRuZkVnUVI1UVNROE1kWlJlQThSS0lYRXdJREFRQUJBb0lCQUJXWGwzUHRCaGN4SkpkTwpqNFhleksrSndiWExsN0NJVTJoNkpXS0VmSXZNeTRHaXpTZndBZkx3MWQ3eEx1NCtYM0xvd28wUkNoaE5OaFlyCi9ycUJLdGdhNTc4QzVnT29JVE83ellscGI0UDRqY3R4NzNkSFkxMll0WVRqYUdtQyticEdkN1NlVy9sR2VoTVQKRDFtalNXL2dDOFIvR0RKQkdjK2NpVitZbDhZWUxlWDVnT3JWZlNzZkNVMkRPMGIrNGs4WEo2Sm96Z1VHOFpmMAo5QkhjNUZ1WkYyYlFWSFV5ai94cndlaS80RW5uVUNoNFBSMHEyaytrRGFsVzNpeUhYNjVvTjNVd0Vtcmk3RUxjCldzYjZzWHdsRWszdGMrdHNpYkYwaWhvdnRCN0NzTy9SZE9vaVZlY3FMMjJFcytuWFFuUHZvNzU5TE5MRUhabG4KTWNZcGdXRUNnWUVBd3hPaVJ5VVp1YTV1MHROQ2FFVmJ6YzR5NHlMQmxQTEh6dklwdFU5eFpQMGJFMXA5M1g3SAowK2ZaamFZMFJuYlQyaTRBV1RPK0VSNy9ZV3RpdVNlbi9oWVRBWWFNUnlxZ0VrUm5DYU0rWDFiVDlWWEpVN3cwCkJmY1IwYXhpaGNuTWs1QUFUTSt0dUYyRHhYVS9lZnVTN1pCY3FWUVlBVkxFb3FhVXRaVU1jQmtDZ1lFQXZEbDAKc2NPQm9LY0duRDhua3c4QURydXBxY2pOeXRpZXRjcmZmc3IxM1VtNTNXQ1BuRWx0QlVWVXRKNG1IQXMxeUNWdQpWaE1qMXZFN0lQRk1sZWtvZEcrVmRiZEoyeEhNSWExVmV6RSszMmZlbFNFOFQ3aHlQcGpHb0lYL3RxRWVlU210CituVEtXaFdGdml0YVdHK3ZiSVQ1REZnNi9pZnNtTERyT3NlVU5nc0NnWUVBclBYc2pQMzFHQy96ck5PSTdxQ0kKYkNwbDdnTno5ZGRvbHpFWkQ5dlhJMzVTa2s5S2g2ZVFEMjlpOGZlcUk4dlp2SG5LNzB3ME9rUHNsSGk4K0lPVApySEh2K2d0TXR4Q3hDbUZCcGticDEyaEoyQjF1dXVLRWtjRmxPQzJLMFNxQ1MxZURISmVLWkl2dGVKYWphRWxKCkZYOUkyUTFwbDByR2M1d1ZBQWFlRjRrQ2dZQUo3ekpraTRBVS9adlF0VmllWDJWT1ljTkRyZENHeTBZZExEYjkKbHpMQTJqcFFIOStValIrTzdxalkyNXdCVU9vbXhTcjhxZ2Z6T1VvNG8rTzU2ZE56eWN2bXFhVGhSaUF6Q3RYLwpLWXM2K1YxN0c0VDJaRExMY1A3U3pCL0NBT0Q5M2lCTG5zeHJVc1Y3VXdoeXNIcGV6T25rSitmOU1CaEJ1dHkvCmZuY3BId0tCZ0Y1MlkzM3hQUFN1UEFTWDJVUGFJVXV6SHR1WURyVE5UVVJ1bmpSbkhYMjZkQjBEc0tsYVcxNVcKTTNidENsVURVWk9KellEbS85aks3VnU3cjhTZDlEMWFDcVlyREgwbXVSWDV0YjNFcGlKclJ6RU5rUVFsT3BBRwpySjBpN2hJTHFYakVVWXR3SU85SllSV3RRc21qdG4xNzkwbEtHbm80SDU1VCtHRmFveElICi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0t"
+phases:
+  install:
+    runtime-versions:
+      docker: 19
+    # commands:
+      # - yum install -y openssh-clients
+  pre_build:
+    commands:
+      - mkdir -p ~/.ssh
+      - echo "$SSH_PRIVATE_KEY" | base64 --decode > ~/.ssh/id_rsa
+      - chmod 600 ~/.ssh/id_rsa
+  build:
+    commands:
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 441239858975.dkr.ecr.us-east-1.amazonaws.com"
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "if [ -d knolx-demo ]; then rm -rf knolx-demo; fi"
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "git clone https://github.com/hsinghalk/knolx-demo.git"
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "cd knolx-demo && AWS_ACCOUNT_ID=441239858975 AWS_DEFAULT_REGION=us-east-1 IMAGE_TAG=latest docker-compose -f docker-compose-deploy.yml pull"
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "cd knolx-demo && AWS_ACCOUNT_ID=441239858975 AWS_DEFAULT_REGION=us-east-1 IMAGE_TAG=latest docker-compose -f docker-compose-deploy.yml up -d"
+  post_build:
+    commands:
+      - ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa ubuntu@18.208.110.37 "docker ps -a"
